@@ -60,8 +60,11 @@ Each phase builds upon the learnings and feedback from the previous one, ensurin
 - Market Analysis & Problem Validation
 - 50+ Customer Discovery Interviews
 - Value Proposition Definition
+- Experimentation & Validation
 - Initial Product Backlog Creation
 - Project Proposal Development
+
+> Detailed instructions for this phase can be found in the [Discovery Phase Instructions](milestones/discovery_phase_instructions.md)
 
 ### Phase 2: First MVP (Weeks 7-15)
 
