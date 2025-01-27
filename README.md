@@ -147,7 +147,7 @@ Your resources section is quite comprehensive and practical! Here are some sugge
 
 7. **🌐 Networking & Community:**
    - [Product Hunt](https://www.producthunt.com/) - Showcase your product and connect with early adopters.
-   - 
+   - Soon we will invite you on Entrepreneurs groups 
 
 ## 🤝 How to Join
 
