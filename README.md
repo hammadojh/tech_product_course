@@ -91,7 +91,63 @@ Each phase builds upon the learnings and feedback from the previous one, ensurin
 
 ## 📚 Resources
 
-> TODO: Add Resources
+1- 🌄 Motivation:
+6 Tips on Being a Successful Entrepreneur  
+https://www.youtube.com/watch?v=eHJnEHyyN1Y 
+
+2- 🌟 Go one step ahead with the Best startup school:
+https://www.startupschool.org/
+
+3- 📙 Organaize your work use this notion template to keep organaized:
+https://www.notion.so/Startup-in-a-Box-18343fc7cb1480469ab9eefe76df9012?pvs=4
+
+4- Challenges for champions 💪: 
+
+  1- Global EdTech Startup Awards 
+  https://www.globaledtechawards.org/
+  
+  2- Challenge for Change
+  https://hub.misk.org.sa/programs/community/challenge-for-change/
+  
+  3- Qimam Fellowship
+  https://www.qimam.com/apply/
+
+
+Your resources section is quite comprehensive and practical! Here are some suggestions to enhance it:
+
+---
+
+## 📚 Resources
+
+1. **🌄 Motivation:**
+   - [6 Tips on Being a Successful Entrepreneur](https://www.youtube.com/watch?v=eHJnEHyyN1Y) - A quick video to kickstart your entrepreneurial mindset.
+
+2. **🌟 Startup Knowledge Hub:**
+   - [Startup School by Y Combinator](https://www.startupschool.org/) - Access world-class resources and insights to refine your startup journey.
+
+3. **📙 Organization Tools:**
+   - [Notion Template: Startup-in-a-Box](https://www.notion.so/Startup-in-a-Box-18343fc7cb1480469ab9eefe76df9012?pvs=4) - Keep your startup organized with this Notion template tailored for entrepreneurs.
+
+4. **💪 Challenges for 2025 Champions:**
+   - [Global EdTech Startup Awards](https://www.globaledtechawards.org/) - Compete with innovative ideas in the education technology space.
+   - [Challenge for Change (Misk Foundation)](https://hub.misk.org.sa/programs/community/challenge-for-change/) - A Saudi-based initiative supporting impactful ideas.
+   - [Qimam Fellowship](https://www.qimam.com/apply/) - A prestigious program for developing leadership potential.
+
+5. **📖 Deep Dive Resources:**
+   - **Books:**
+     - *The Lean Startup* by Eric Ries – Essential for mastering the Lean Startup methodology.
+     - *Zero to One* by Peter Thiel – Learn how to build unique, groundbreaking companies.
+   - **Courses:**
+     - [Coursera: Entrepreneurship Specialization](https://www.coursera.org/specializations/entrepreneurship) - Comprehensive coursework to learn the ins and outs of entrepreneurship.
+
+6. **🛠 Developer Tools:**
+   - [GitHub](https://github.com/) - Manage and share your code repositories with collaborators.
+   - [Figma](https://www.figma.com/) - Design stunning user interfaces and user experiences.
+   - [Canva](https://www.canva.com/) - Create professional pitch decks and marketing material.
+
+7. **🌐 Networking & Community:**
+   - [Product Hunt](https://www.producthunt.com/) - Showcase your product and connect with early adopters.
+   - 
 
 ## 🤝 How to Join
 
