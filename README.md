@@ -75,6 +75,8 @@ Each phase builds upon the learnings and feedback from the previous one, ensurin
 - Analytics Implementation
 - Initial User Testing
 
+> Detailed instructions for this phase can be found in [MVP Phase Instructions](/milestones/mvp_phase_instructions.md)
+
 ### Phase 3: Product Evolution (V2) (Weeks 16-22)
 - Enhanced Feature Backlog
 - Advanced UI/UX Implementation
