@@ -22,9 +22,6 @@ Understand the market landscape and **validate** the problem you are trying to s
 - Competitive analysis (existing solutions, competitors, gaps)
 - Problem statement with evidence
 
-### 🔗 Resources:
-> TODO: Add Resources: Finding a problem, why startups fail, .. etc.
-
 ---
 
 ## 🗣️ 2. Customer Discovery Interviews (50+ Interviews)
