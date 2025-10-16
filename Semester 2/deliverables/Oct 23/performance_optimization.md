@@ -259,13 +259,11 @@ Performance Goals:
 - **"High Performance Web Sites" by Steve Souders:** Frontend optimization fundamentals
 - **"Even Faster Web Sites" by Steve Souders:** Advanced optimization techniques
 - **Google Web Fundamentals:** Performance best practices and guides
-- **web.dev:** Modern performance optimization patterns
 
 #### Database Optimization
 - **"Use The Index, Luke!":** SQL indexing and tuning guide
-- **Database-specific documentation:** Query optimization guides
 - **"High Performance MySQL" by Baron Schwartz:** Database performance tuning
-- **Percona Database Performance Blog:** Real-world optimization insights
+- ** :** Real-world optimization insights
 
 #### Backend Optimization
 - **"Designing Data-Intensive Applications" by Martin Kleppmann:** Scalability fundamentals
