@@ -136,7 +136,7 @@ Example Calculation:
 - Measure payment success rates
 - Gather feedback on perceived value
 
-**Pre-Sales Validation:**
+**Pre-Sales Validation (at least):**
 - Offer pre-orders or early bird discounts
 - Create waitlist for paid features
 - Conduct pricing surveys with target customers
@@ -291,20 +291,17 @@ Key Partners:
 - **Strategyzer Business Model Canvas:** Visual business model framework
 - **Lean Canvas:** Startup-focused business model template
 - **Financial Modeling Templates:** Spreadsheet templates for projections
-- **Stripe/PayPal:** Payment processing for monetization testing
 - **ProfitWell:** SaaS metrics and analytics
 
 ### Learning Resources
 
 #### Business Model Fundamentals
 - **"Business Model Generation" by Osterwalder & Pigneur:** Business model canvas methodology
-- **"Running Lean" by Ash Maurya:** Lean startup approach to business validation
 - **"The Lean Startup" by Eric Ries:** Build-measure-learn for business models
 - **"Zero to One" by Peter Thiel:** Building sustainable competitive advantages
 
 #### Pricing Strategy
 - **"Monetizing Innovation" by Madhavan Ramanujam:** Pricing and monetization strategies
-- **"The Strategy and Tactics of Pricing" by Nagle & Hogan:** Comprehensive pricing guide
 - **Patrick Campbell (ProfitWell):** SaaS pricing research and insights
 - **Price Intelligently Blog:** Data-driven pricing strategies
 
