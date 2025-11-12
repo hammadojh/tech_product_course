@@ -100,11 +100,10 @@ TBD
 | 8 | Oct 16th | | | | | | |
 | 9 | Oct 23rd | 4 | Performace Optimization | design v3 | Business Model Validation | Avg | |
 | 10 | Nov 6th | | | | | | |
-| 11 | Nov 13th | 5 | Product v3 | Micro-interactions | Pitch Deck Development | Avg*2 | 50 |
-| 12 | Nov 20th | | | | | | |
-| 13 | Nov 27th | 6 | Security Audits | UX Audit v3 | feeback v3 | | |
-| 14 | Dec 4th | | | | | | |
-| 15 | Dec 11th | 7 | Scale Setup | design v4 | Investment/Launch Preparation | | |
-| 16 | Dec 18th | | | | | | |
-| 17 | Dec 25th | 8 | Product v4 | Final Design touches | Scaling Infrastructure | Avg*3 | 100 |
+| 11 | Nov 13th | | | | | | |
+| 12 | Nov 20th | 5 | Product v3 | Micro-interactions | Pitch Deck Development | Avg*2 | 50 |
+| 13 | Nov 27th | | | | | | |
+| 14 | Dec 4th | 6 | Security Audits | UX Audit v3 | feeback v3 | | |
+| 15 | Dec 11th | | | | | | |
+| 16 | Dec 18th | 7 | Scale Setup | design v4 | Investment/Launch Preparation | | |
 
